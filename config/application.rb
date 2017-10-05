@@ -14,4 +14,4 @@ module ApiExercise
   end
 end
 
-JUHU_CONFIG = Rails.application.config_for(:juhe)
+JUHE_CONFIG = Rails.application.config_for(:juhe)
